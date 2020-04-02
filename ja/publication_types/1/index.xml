@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Ryotaro Sato</title>
+    <link>https://rsm9.github.io/ja/publication_types/1/</link>
+      <atom:link href="https://rsm9.github.io/ja/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Fri, 15 Mar 2019 13:38:41 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>https://rsm9.github.io/ja/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Function Designable Beamformer Based on Probabilistic Assumptions on Filter and Its Auxiliary Variables</title>
+      <link>https://rsm9.github.io/ja/publication/icassp2019/</link>
+      <pubDate>Fri, 15 Mar 2019 13:38:41 +0900</pubDate>
+      <guid>https://rsm9.github.io/ja/publication/icassp2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Phrase/Accent Command Estimation Algorithm Utilizing Linguistic Information</title>
+      <link>https://rsm9.github.io/ja/publication/icassp2018/</link>
+      <pubDate>Thu, 15 Mar 2018 13:38:41 +0900</pubDate>
+      <guid>https://rsm9.github.io/ja/publication/icassp2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast algorithm for statistical phrase/accent command estimation based on generative model incorporating spectral features</title>
+      <link>https://rsm9.github.io/ja/publication/icassp2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>https://rsm9.github.io/ja/publication/icassp2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

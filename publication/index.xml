@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ryotaro Sato</title>
+    <link>https://rsm9.github.io/publication/</link>
+      <atom:link href="https://rsm9.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 14:10:18 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>https://rsm9.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>区分的凸関数近似に基づく多方向ゲイン制約ビームフォーマの設計</title>
+      <link>https://rsm9.github.io/publication/asj2020s/</link>
+      <pubDate>Tue, 17 Mar 2020 14:10:18 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/asj2020s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>フィルタ係数と補助変数群に対する多重確率モデリングに基づくビームフォーマ設計</title>
+      <link>https://rsm9.github.io/publication/asj2019s/</link>
+      <pubDate>Fri, 15 Mar 2019 14:10:18 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/asj2019s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Function Designable Beamformer Based on Probabilistic Assumptions on Filter and Its Auxiliary Variables</title>
+      <link>https://rsm9.github.io/publication/icassp2019/</link>
+      <pubDate>Fri, 15 Mar 2019 13:38:41 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/icassp2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>韻律指令列の統計的推定アルゴリズムへの言語情報の導入</title>
+      <link>https://rsm9.github.io/publication/asj2018s/</link>
+      <pubDate>Thu, 15 Mar 2018 14:10:18 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/asj2018s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Phrase/Accent Command Estimation Algorithm Utilizing Linguistic Information</title>
+      <link>https://rsm9.github.io/publication/icassp2018/</link>
+      <pubDate>Thu, 15 Mar 2018 13:38:41 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/icassp2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast algorithm for statistical phrase/accent command estimation based on generative model incorporating spectral features</title>
+      <link>https://rsm9.github.io/publication/icassp2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/icassp2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>韻律指令列推定のための基本周波数・音韻特徴量系列同時生成モデルの検討</title>
+      <link>https://rsm9.github.io/publication/asj2017s/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/asj2017s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基本周波数パターンと音韻特徴量系列の同時生成モデルによる韻律指令列推定</title>
+      <link>https://rsm9.github.io/publication/spslp201712/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/spslp201712/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

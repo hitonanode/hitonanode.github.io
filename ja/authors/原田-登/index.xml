@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>原田 登 | Ryotaro Sato</title>
+    <link>https://rsm9.github.io/ja/authors/%E5%8E%9F%E7%94%B0-%E7%99%BB/</link>
+      <atom:link href="https://rsm9.github.io/ja/authors/%E5%8E%9F%E7%94%B0-%E7%99%BB/index.xml" rel="self" type="application/rss+xml" />
+    <description>原田 登</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Fri, 15 Mar 2019 14:10:18 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>原田 登</title>
+      <link>https://rsm9.github.io/ja/authors/%E5%8E%9F%E7%94%B0-%E7%99%BB/</link>
+    </image>
+    
+    <item>
+      <title>フィルタ係数と補助変数群に対する多重確率モデリングに基づくビームフォーマ設計</title>
+      <link>https://rsm9.github.io/ja/publication/asj2019s/</link>
+      <pubDate>Fri, 15 Mar 2019 14:10:18 +0900</pubDate>
+      <guid>https://rsm9.github.io/ja/publication/asj2019s/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

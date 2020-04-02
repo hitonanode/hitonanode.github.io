@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>亀岡 弘和 | Ryotaro Sato</title>
+    <link>https://rsm9.github.io/ja/authors/%E4%BA%80%E5%B2%A1-%E5%BC%98%E5%92%8C/</link>
+      <atom:link href="https://rsm9.github.io/ja/authors/%E4%BA%80%E5%B2%A1-%E5%BC%98%E5%92%8C/index.xml" rel="self" type="application/rss+xml" />
+    <description>亀岡 弘和</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>亀岡 弘和</title>
+      <link>https://rsm9.github.io/ja/authors/%E4%BA%80%E5%B2%A1-%E5%BC%98%E5%92%8C/</link>
+    </image>
+    
+    <item>
+      <title>韻律指令列推定のための基本周波数・音韻特徴量系列同時生成モデルの検討</title>
+      <link>https://rsm9.github.io/ja/publication/asj2017s/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0900</pubDate>
+      <guid>https://rsm9.github.io/ja/publication/asj2017s/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>柏野邦夫 | Ryotaro Sato</title>
+    <link>https://rsm9.github.io/authors/%E6%9F%8F%E9%87%8E%E9%82%A6%E5%A4%AB/</link>
+      <atom:link href="https://rsm9.github.io/authors/%E6%9F%8F%E9%87%8E%E9%82%A6%E5%A4%AB/index.xml" rel="self" type="application/rss+xml" />
+    <description>柏野邦夫</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>柏野邦夫</title>
+      <link>https://rsm9.github.io/authors/%E6%9F%8F%E9%87%8E%E9%82%A6%E5%A4%AB/</link>
+    </image>
+    
+    <item>
+      <title>基本周波数パターンと音韻特徴量系列の同時生成モデルによる韻律指令列推定</title>
+      <link>https://rsm9.github.io/publication/spslp201712/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0900</pubDate>
+      <guid>https://rsm9.github.io/publication/spslp201712/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
